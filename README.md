@@ -14,7 +14,10 @@ Este proyecto fue creado para:
 - Integrar múltiples librerías de Python para estructurar un flujo de trabajo completo de análisis  
 
 Trabajado en Google Colab para facilitar la ejecución, visualización de gráficos y experimentación. 
-Nota: Los resultados iniciales presentan bajos niveles de accuracy debido a la naturaleza del dataset, esto abre opc de mejora a largo plazo.
+-  Nota: Los resultados iniciales presentan bajos niveles de accuracy debido a la naturaleza del dataset, esto abre opc de mejora a largo plazo.
+
+
+
 ---
 
 ## Herramientas y Librerías:
